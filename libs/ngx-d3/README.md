@@ -2,8 +2,14 @@
   <img src="docs/assets/logo.png" />
 </p>
 <p align="center">
-  <a href="https://travis-ci.org/zeevkatz/ngx-d3">
-    <img src="https://api.travis-ci.org/zeevkatz/ngx-d3.svg?branch=master" />
+  <a href="https://www.npmjs.com/package/@katze/ngx-d3">
+    <img src="https://img.shields.io/npm/dt/@katze/ngx-input-default-value.svg" />
+  </a>  
+  <a href="https://www.npmjs.com/package/@katze/ngx-d3">
+    <img src="https://img.shields.io/npm/l/@katze/ngx-input-default-value.svg" />
+  </a>
+  <a href="https://travis-ci.org/ZeevKatz/ngx-d3">
+    <img src="https://api.travis-ci.org/ZeevKatz/ngx-d3.svg?branch=master" />
   </a>
 </p>
 
@@ -14,7 +20,7 @@
 ## Installation
 
 ```
-yarn install ngx-d3
+yarn install @katze/ngx-d3
 ```
 
 ## Usage
@@ -29,7 +35,7 @@ To obtain the `d3` object from an injected D3 service `ngxD3Service: NgxD3Servic
 
 ```ts
 import { Component, OnInit } from '@angular/core';
-import { NgxD3Service } from 'ngx-d3';
+import { NgxD3Service } from '@katze/ngx-d3';
 
 @Component({
   selector: 'histogram-component',

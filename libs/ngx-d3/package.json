@@ -1,22 +1,23 @@
 {
-  "name": "ngx-d3",
-  "version": "0.1.1",
+  "name": "@katze/ngx-d3",
+  "version": "0.1.2",
   "author": {
     "name": "Zeev Katz",
-    "url": "https://github.com/zeevkatz"
+    "url": "https://github.com/ZeevKatz"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeevkatz/ngx-d3"
+    "url": "https://github.com/ZeevKatz/ngx-d3"
   },
   "bugs": {
-    "url": "https://github.com/zeevkatz/ngx-d3/issues"
+    "url": "https://github.com/ZeevKatz/ngx-d3/issues"
   },
   "description": "A D3 service for Angular applications",
   "keywords": [
     "ngx-d3",
     "angular-d3",
     "ng-d3",
+    "katze",
     "d3",
     "ng",
     "ngx",
