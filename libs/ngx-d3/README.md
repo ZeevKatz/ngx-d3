@@ -3,10 +3,10 @@
 </p>
 <p align="center">
   <a href="https://www.npmjs.com/package/@katze/ngx-d3">
-    <img src="https://img.shields.io/npm/dt/@katze/ngx-input-default-value.svg" />
+    <img src="https://img.shields.io/npm/dt/@katze/ngx-d3.svg" />
   </a>  
   <a href="https://www.npmjs.com/package/@katze/ngx-d3">
-    <img src="https://img.shields.io/npm/l/@katze/ngx-input-default-value.svg" />
+    <img src="https://img.shields.io/npm/l/@katze/ngx-d3.svg" />
   </a>
   <a href="https://travis-ci.org/ZeevKatz/ngx-d3">
     <img src="https://api.travis-ci.org/ZeevKatz/ngx-d3.svg?branch=master" />
