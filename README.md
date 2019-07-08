@@ -19,8 +19,6 @@ yarn install ngx-d3
 
 ## Usage
 
-Once the module `ngx-d3` has been added to a project as described above, it provides the following importable exports:
-
 * `NgxD3Service`: The Angular D3 Service injectable,
 * `D3`: A TypeScript type alias for the `d3` variable which can be obtained from the `NgxD3Service`, and
 * the various TypeScript interfaces and type aliases which are related to the D3 modules constituting `d3` as provided by this service (e.g. `Selection`, `Transition`, `Axis`). 
