@@ -19,7 +19,7 @@
 ### Installation
 
 ```
-yarn install @katze/ngx-d3
+yarn add @katze/ngx-d3
 ```
 ---
 ### Usage
