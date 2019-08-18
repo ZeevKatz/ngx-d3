@@ -13,7 +13,7 @@
   </a>
 </p>
 
-`ngx-d3` is a [D3](https://github.com/d3/d3) (by Tom IMO) wrapper service for [Angular](https://angular.io/) applications.
+`ngx-d3` is a [D3](https://github.com/d3/d3) wrapper service for [Angular](https://angular.io/) applications inspired by [@tomwanzek/d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).
 
 ---
 ### Installation
