@@ -10,7 +10,7 @@
       "prefix": "ngx-d3",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-ng-packagr:build",
+          "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
             "tsConfig": "libs/ngx-d3/tsconfig.lib.json",
             "project": "libs/ngx-d3/ng-package.json"
