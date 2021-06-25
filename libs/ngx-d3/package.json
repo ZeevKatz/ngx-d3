@@ -1,6 +1,6 @@
 {
   "name": "@katze/ngx-d3",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "author": {
     "name": "Zeev Katz",
     "url": "https://github.com/ZeevKatz"
@@ -60,7 +60,7 @@
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/common": ">=2.0 < 12.0.0",
-    "@angular/core": ">=2.0 < 12.0.0"
+    "@angular/common": "^12.0.0",
+    "@angular/core": "^12.0.0"
   }
 }
