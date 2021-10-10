@@ -24,14 +24,6 @@ export {
   Ribbon,
   RibbonGenerator,
   RibbonSubgroup,
-  // d3-collection
-  Map,
-  Nest,
-  NestedArray,
-  NestedMap,
-  NestedObject,
-  Set,
-  Stringifiable,
   // d3-color
   Color,
   ColorCommonInstance,
@@ -156,7 +148,6 @@ export {
   // No interfaces or types
   // d3-selection
   ArrayLike,
-  BaseEvent,
   BaseType,
   ClientPointEvent,
   ContainerElement,
@@ -203,17 +194,8 @@ export {
   Timer,
   // d3-transition
   Transition,
-  // d3-voronoi
-  VoronoiCell,
-  VoronoiDiagram,
-  VoronoiEdge,
-  VoronoiLayout,
-  VoronoiLink,
-  VoronoiPoint,
-  VoronoiPointPair,
-  VoronoiPolygon,
-  VoronoiSite,
-  VoronoiTriangle,
+  // d3-delaunay
+  Delaunay,
   // d3-zoom
   D3ZoomEvent,
   ZoomBehavior,
